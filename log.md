@@ -13,3 +13,5 @@ On second thought,he couldn't make the maze. because there has to be many walls,
 We need a revolutionary idea, but we don't know how to make a one. so we look at the privious games and simulation.
 And looking few upper class's project,we saw the parkour game. it looks little hard for us,but it worth a try!
 We try the parkour game, which is more easier than the maze before. and i seems he's relaxed to making more easy & fun.
+but we still don't get it how to make a wall that can't be passed through. and we found another problem.
+we need to make a gravity for our charecters.
