@@ -1,17 +1,21 @@
 2026 5/20 Day 1
 
-First,we started to create our charecter. and i think of lots of it. apple, potato,and marshmello. 
-I'm not good at coding,and my friend is doing his best to make a code,too. so i had to find an easy drawing creature, that way, he'll do his job easliy and fast.
-But think in every charecters and creatures, i can't think many of them. and in all of an sudden, i think about a ball creature. and its super easy to make it.
-All we need is just a 5 spheres. 4 is to make eyes. we had just made creature, but we're not done yet. we didn't made our game. and we thinked,again.
-'how can we make a game?' with that thinkin, my friend suggested a maze. in that,all he have to do is just making some rectangles to create a wall, but he need a lots of it.
-We made a foundation first, but there's a big problem, how to block the walls for not get passed by it.
+먼저, 캐릭터를 만들기 시작했어요. 여러 가지를 생각해봤죠. 저는 코딩을 잘 못하고, 수빈이는 코딩을 저보다 잘하고 있어서. 그래서 수빈이가 코딩을 더 쉽고 빠르게 할 수 있도록 그리기 쉬운 캐릭터를 찾아야 했죠.
+하지만 모든 캐릭터와 생물을 생각해 보니, 마땅한 게 떠오르지 않았어요. 그러다 갑자기 공 모양의 생물이 생각났어요. 만들기도 정말 쉬웠죠. 구체 5개만 있으면 됐어요. 그중 4개는 눈을 만드는 데 쓰면 되고요. 
+캐릭터는 만들었지만, 아직 끝이 아니었어요. 게임을 만들어야 했거든요.
+그래서 다시 생각했죠. '어떻게 게임을 만들지?' 그러다 친구가 미로 게임을 만들자고 제안했어요. 미로를 만들려면 몇개의 직육면체를 이용해서 벽을 만들면 되는데, 벽이 엄청 많이 필요했죠. 일단 기본 틀은 만들었는데, 큰 문제가 생겼어요. 
+벽을 어떻게 막아야 통과할 수 없을까 하는 거였죠.
 
 2026 5/22 Day 2
 
-On second thought,he couldn't make the maze. because there has to be many walls,about 93 walls. so we have to reset the project,and think of a new one.
-We need a revolutionary idea, but we don't know how to make a one. so we look at the privious games and simulation.
-And looking few upper class's project,we saw the parkour game. it looks little hard for us,but it worth a try!
-We try the parkour game, which is more easier than the maze before. and i seems he's relaxed to making more easy & fun.
-but we still don't get it how to make a wall that can't be passed through. and we found another problem.
-we need to make a gravity for our charecters.
+다시 생각해 보니, 수빈이는 미로를 만들기 힘들다고 했습니다. 벽이 무려 93개나 필요했거든요. 그래서 프로젝트를 처음부터 다시 시작하고 새로운 아이디어를 생각해내야 했습니다.
+혁신적인 아이디어가 필요했지만, 어떻게 해야 할지 몰랐습니다. 그래서 이전 게임과 시뮬레이션을 살펴보았습니다.
+그리고 선배들의 프로젝트를 몇 개 보다가 파쿠르 게임을 발견했습니다. 우리에게는 조금 어려워 보였지만, 시도해 볼 만한 가치가 있다고 생각했습니다!
+파쿠르 게임을 만들어 보니, 이전의 미로보다 훨씬 쉬웠습니다. 그래서 거의 절반은 만들어진 것 같았습니다.
+하지만 우리는 여전히 통과할 수 없는 벽을 어떻게 만들어야 할지 몰랐습니다. 그리고 또 다른 문제가 생겼습니다. 캐릭터에 중력을 적용해야 했습니다.
+
+2026 5/27 Day 3
+
+몇몇 함정도 만들었고, 대부분은 다 완성했지만, 아직도 중력 적용과 벽 통과를 클리어하지 못 했습니다.
+전 프로젝트를 꼼꼼히 보아도, 아무것도 알아내지 못했습니다. 심지어 책을 봐도, 그 코드로 실행해도 에러가 계속해서 보여서 저희는 점점 불편한 느낌이 들었습니다.
+다른 프로젝트를 생각해도 다 어려운 거 밖에 없어서 여기서 끝할지도 모르겠다는 생각이 수십 번 들었습니다.
